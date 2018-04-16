@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1084079841600",
+    "firebase_url": "https://howllogintest.firebaseio.com",
+    "project_id": "howllogintest",
+    "storage_bucket": "howllogintest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084079841600:android:e57e44048ef590f0",
+        "android_client_info": {
+          "package_name": "com.example.stu.howl_logintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084079841600-nmgc3jlm918gjin8q4sv4funmgsqb1tn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stu.howl_logintest",
+            "certificate_hash": "f5b2caf3b283f4370eed9b143f2a45b5859e1854"
+          }
+        },
+        {
+          "client_id": "1084079841600-do4l8f9adtkmfdbdft701qba034sj513.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5FqMTWI7OcG8NdTXo4e-5HGApE1B3Ohs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084079841600-do4l8f9adtkmfdbdft701qba034sj513.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
